@@ -1,5 +1,0 @@
-cd ~/git
-git add README.md
-git commit -m“第一次提交”
-git remote add origin https://github.com/mwx2006/112.git
-git push -u origin master
